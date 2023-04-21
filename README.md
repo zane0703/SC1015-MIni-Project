@@ -12,8 +12,13 @@ Through this mini project, we aim to analyse past NBA Games data to determine wh
 |Adrian Chua Pin Yu |[ad0001yu@e.ntu.edu.sg](mailto:ad0001yu@e.ntu.edu.sg) |
 
 ## Problem Formulation
- - Which variable (FG PCT HOME, FT PCT HOME, AST HOME, REB HOME) is the best in predicting whether the home team will win?
- - Which classification model would be the best for our particular dataset?
+ - Which variable 
+   - FG PCT HOME
+   - FT PCT HOME 
+   - AST HOME 
+   - REB HOME
+ 
+ is the best in predicting whether the home team will win?
  
  ## Flow of the Project
  
@@ -33,6 +38,8 @@ Through this mini project, we aim to analyse past NBA Games data to determine wh
 
 ## What did we learn?
 - Collaborating on github for coding projects
+- Use of other classification trees other than decision tree classifier, such as logistic regression and nearest neighbour classifications
+- Experience of the entire data science pipeline, starting from a dataset, to problem formulation to research and finally a conclusion
 
 ## Team member's contribution
 
@@ -44,4 +51,4 @@ While each of us were assigned our individual roles within the project, we made 
 
 
 ## References 
-
+https://www.kaggle.com/datasets/nathanlauga/nba-games
