@@ -35,11 +35,16 @@ Through this mini project, we aim to analyse past NBA Games data to determine wh
   For each of the variables columns we were interested in, we fitted them into all of the classification tree models to determine which model is the best for our project case. From there, we made our analysis to determine which is the better variable to answer our problem statement.
 
 ## Conclusion / Final analysis
+- Nearest Neighbour classifier is ultimately not used in our final analysis as our team deemed the logic behind the classifier not so appropriate for our project problem statement, given also that the classification accuracy is the lowest among the four models used across all four variable columns.
+- After analysis of all the models with each of the column variables, it seems that **FG PCT HOME** is the better variable among the four variable to predict whether the home team win, given the higher classification accuracy across all the models used. 
+- All models seems to be similarly accurate as the results are similar for the models for the respective variable columns.
+- However, the three models could be further improved upon by adding defensive statistics such as Opposing field goal percentage as well as other advanced statistics such as Box Plus Minus, Effective Field Goal Percentage, which could better help identify skill sets that could better help a team win.
 
 ## What did we learn?
 - Collaborating on github for coding projects
 - Use of other classification trees other than decision tree classifier, such as logistic regression and nearest neighbour classifications
 - Experience of the entire data science pipeline, starting from a dataset, to problem formulation to research and finally a conclusion
+- Limitations of some models and data and how it can be further improved.
 
 ## Team member's contribution
 
