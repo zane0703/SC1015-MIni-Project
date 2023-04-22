@@ -56,11 +56,11 @@ While each of us were assigned our individual roles within the project, we made 
 
 
 ## References 
-https://www.kaggle.com/datasets/nathanlauga/nba-games
-https://towardsdatascience.com/feature-importance-in-decision-trees-e9450120b445
-https://www.ibm.com/topics/decision-trees
-https://towardsdatascience.com/understanding-random-forest-58381e0602d2
-https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
-https://www.youtube.com/watch?v=C5268D9t9Ak
-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
-Jupyter notebooks from NTU Coursesite (M2, M4)
+- https://www.kaggle.com/datasets/nathanlauga/nba-games
+- https://towardsdatascience.com/feature-importance-in-decision-trees-e9450120b445
+- https://www.ibm.com/topics/decision-trees
+- https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+- https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+- https://www.youtube.com/watch?v=C5268D9t9Ak
+- https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+- Jupyter notebooks from NTU Coursesite (M2, M4)
