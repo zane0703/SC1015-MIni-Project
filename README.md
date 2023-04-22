@@ -56,11 +56,18 @@ While each of us were assigned our individual roles within the project, we made 
 
 
 ## References 
-- https://www.kaggle.com/datasets/nathanlauga/nba-games
-- https://towardsdatascience.com/feature-importance-in-decision-trees-e9450120b445
-- https://www.ibm.com/topics/decision-trees
-- https://towardsdatascience.com/understanding-random-forest-58381e0602d2
-- https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
-- https://www.youtube.com/watch?v=C5268D9t9Ak
-- https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+- Nathan, L. (2020, December 21). NBA games data [Data Scientists]. Kaggle. https://www.kaggle.com/datasets/nathanlauga/nba-games
+- Supervised learning. (n.d.). Scikit Learn. Retrieved 22 April 2023, from https://scikit-learn/stable/supervised_learning.html Anaconda (2022.10). (2022). [Python]. Anaconda Inc.
+- Bujokas, E. (2022, June 2). Feature Importance in Decision Trees. Medium. https://towardsdatascience.com/feature-importance-in-decision-trees-e9450120b445
+- Cournapeau, D. (2023). Scikit Learn (1.2.2) [Python; Python]. https://scikit-learn.org/
+- DATAtab (Director). (2023, January 8). Logistic Regression [Simply explained]. https://www.youtube.com/watch?v=C5268D9t9Ak
+- Hunter, J. (2023). Matplotlib (3.7.1) [Python]. https://matplotlib.org/
+- McKinney, W. (2023). Pandas (1.5.3) [Python; Python]. https://pandas.pydata.org/
+- Nathan, L. (2020, December 21). NBA games data [Data Scientists]. Kaggle. https://www.kaggle.com/datasets/nathanlauga/nba-games
+- Oliphant, T. (2023). Numpy (1.24.2) [Python; Python]. https://numpy.org/
+- R, S. E. (2021, June 17). Understand Random Forest Algorithms With Examples (Updated 2023). Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/06/-understanding-random-forest/
+- Waskom., M. (2022). Seaborn (0.12.2) [Python; Python]. https://seaborn.pydata.org/
+- What is a Decision Tree | IBM. (n.d.). Retrieved 22 April 2023, from https://www.ibm.com/topics/decision-trees
+- xrotwang & xflr6. (2022). Graphviz [Python]. https://graphviz.readthedocs.io/en/stable/
+- Yiu, T. (2021, September 29). Understanding Random Forest. Medium. https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 - Jupyter notebooks from NTU Coursesite (M2, M4)
