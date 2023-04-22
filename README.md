@@ -56,7 +56,6 @@ While each of us were assigned our individual roles within the project, we made 
 
 
 ## References 
-- Nathan, L. (2020, December 21). NBA games data [Data Scientists]. Kaggle. https://www.kaggle.com/datasets/nathanlauga/nba-games
 - Supervised learning. (n.d.). Scikit Learn. Retrieved 22 April 2023, from https://scikit-learn/stable/supervised_learning.html
 - Anaconda (2022.10). (2022). [Python]. Anaconda, Inc. http://anaconda.com/
 - Bujokas, E. (2022, June 2). Feature Importance in Decision Trees. Medium. https://towardsdatascience.com/feature-importance-in-decision-trees-e9450120b445
